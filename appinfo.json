@@ -1,7 +1,7 @@
 {
-  "version_id": 230,
-  "version_name": "10.25.5",
-  "date": "2025-09-27",
-  "url": "https://github.com/AppsForgeHub/streamix/releases/download/streamix-10.25.5-pda/streamix-10.25.5-pda.apk",
+  "version_id": 240,
+  "version_name": "10.26.5",
+  "date": "2025-10-15",
+  "url": "https://github.com/AppsForgeHub/streamix/releases/download/streamix-10.26.5-pda/streamix-10.26.5-pda.apk",
   "err_msg_NO": "Приложение может работать нестабильно. В ближайшее время выйдет обновлённая версия."
 }
