@@ -4,5 +4,7 @@
   "date": "2026-01-28",
   "url": "https://www.dropbox.com/scl/fi/k9zxlhth98bedbz4qfmyo/streamix-10.32.5-pda.apk?rlkey=8b34q2yygul8dltpj8620cui4&st=s9a3dgfs&dl=1",
   "url0": "https://www.dropbox.com/scl/fi/k6qqgmuzfs5nk77fcvr0y/streamix-10.31.4-pda.apk?rlkey=zqu9oxtnmwm7h4czs9j5plwcf&st=g70wrhbr&dl=1",
-  "err_msg": "YouTube поднял щиты, могут быть сбои."
+  "err_msg": "YouTube поднял щиты, могут быть сбои.",
+  "err_prev_msg": "YouTube поднял щиты, могут быть сбои.",
+  "err_prev_ver": 300
 }
