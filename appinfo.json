@@ -6,7 +6,7 @@
   "urlZip": "https://www.dropbox.com/scl/fi/jb50wlna7zyavkjkbboyn/app-10.38.5-pda.zip?rlkey=q9djjdow9qzh2twl3ghq1ohdq&st=hhm18avs&dl=1",
   "update_size_title": "(streamix.zip ~ 248 MB)",
   "err_msg": "YouTube поднял щиты, могут быть сбои.",
-  "err_prev_msg": "Авторизация YouTube может тормозить, скоро будет обновление.",
+  "err_prev_msg": "Авторизация YouTube работает нестабильно. Скоро выйдет обновление.",
   "err_prev_ver": 360,
   "update_size_apk": 456, 
   "need_space": 1000
