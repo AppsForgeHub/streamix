@@ -1,0 +1,11 @@
+{
+  "version_id": 420,
+  "version_name": "10.43.5",
+  "date": "2026-05-08",
+  "urlZip": "https://www.dropbox.com/scl/fi/5vsmajymn7b1cnptwq2c4/apk10425pda.zip?rlkey=zjkgo2hlshkze7y4l7gbgbntg&st=yk0g4ahg&dl=1",
+  "update_size_title": "(streamix.zip ~ 130 MB)",
+  "update_size_apk": 456, 
+  "need_space": 1000,
+  "err_prev_ver": 420,
+  "err_prev_msg": "Авторизация YouTube работает нестабильно, необходимо обновление."
+}
