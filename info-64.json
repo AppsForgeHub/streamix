@@ -6,6 +6,6 @@
   "update_size_title": "(streamix.zip ~ 130 MB)",
   "update_size_apk": 456, 
   "need_space": 1000,
-  "err_prev_ver": 420,
+  "err_prev_ver": 400,
   "err_prev_msg": "Авторизация YouTube работает нестабильно, необходимо обновление."
 }
