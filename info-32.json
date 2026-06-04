@@ -1,11 +1,11 @@
 {
-  "version_id": 410,
-  "version_name": "10.43.5",
-  "date": "2026-05-08",
-  "urlZip": "https://www.dropbox.com/scl/fi/5vsmajymn7b1cnptwq2c4/apk10425pda.zip?rlkey=zjkgo2hlshkze7y4l7gbgbntg&st=yk0g4ahg&dl=1",
-  "update_size_title": "(streamix.zip ~ 130 MB)",
-  "update_size_apk": 456, 
-  "need_space": 1000,
+  "version_id": 424,
+  "version_name": "11.0.5",
+  "date": "2026-06-04",
+  "urlZip": "https://www.dropbox.com/scl/fi/b1jyjdo9o7egl3wejufso/app-11.0.5-pda-armv7.zip?rlkey=qnfayp94rezott1pq5uykog9z&st=br0u8tc1&dl=1",
+  "update_size_title": "(streamix.zip ~ 152 MB)",
+  "update_size_apk": 234, 
+  "need_space": 750,
   "err_prev_ver": 390,
   "err_prev_msg": "Возможны сбои, обновите приложение.",
 }
