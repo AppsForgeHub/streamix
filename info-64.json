@@ -1,11 +1,11 @@
 {
   "version_id": 424,
-  "version_name": "11.0.5",
-  "date": "2026-06-04",
-  "urlZip": "https://www.dropbox.com/scl/fi/b5w1cogk1px4sdedvc3jp/app-11.0.5-pda-arm64.zip?rlkey=dxo1m5i73w2vwq83i7tndprnt&st=3pnwkc3l&dl=1",
-  "update_size_title": "(streamix.zip ~ 155 MB)",
-  "update_size_apk": 280, 
-  "need_space": 750,
+  "version_name": "11.1.5",
+  "date": "2026-06-11",
+  "urlZip": "https://www.dropbox.com/scl/fi/0kneyrztngbi5reb89v64/app-11.1.5-pda-arm64.zip?rlkey=quvnsuz61f85n60pgeemgyzum&st=fizsz0xw&dl=1",
+  "update_size_title": "(streamix.zip ~ 163 MB)",
+  "update_size_apk": 300, 
+  "need_space": 780,
   "err_prev_ver": 390,
   "err_prev_msg": "Возможны сбои, обновите приложение.",
   "err_prev_msg1": "В бесплатной версии возмжны сбои при показе рекламы, подробности в Telegram."
