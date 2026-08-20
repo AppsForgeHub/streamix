@@ -6,7 +6,8 @@
   "update_size_title": "(streamix.zip ~ 165 MB)",
   "update_size_apk": 300, 
   "need_space": 780,
-  "err_prev_ver": 390,
-  "err_prev_msg": "Возможны сбои, обновите приложение.",
+  "err_prev_ver": 470,
+  "err_prev_msg": "В YouTube возможны сбои, подробности в Telegram.",
+  "err_prev_msg2": "Возможны сбои, обновите приложение.",
   "err_prev_msg1": "В бесплатной версии возмжны сбои при показе рекламы, подробности в Telegram."
 }
