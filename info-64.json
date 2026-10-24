@@ -1,8 +1,8 @@
 {
-  "version_id": 470,
-  "version_name": "11.4.5",
-  "date": "2026-08-20",
-  "urlZip": "https://www.dropbox.com/scl/fi/fzqbj8qyvfb6y81ldlk67/stm-11.4.5-pda-arm64.zip?rlkey=wkqgkq0dp016zcb4ttykzv65h&st=fdq56zou&dl=1",
+  "version_id": 480,
+  "version_name": "11.5.5",
+  "date": "2026-10-24",
+  "urlZip": "https://www.dropbox.com/scl/fi/xovbfcasgl4ywga2nk6nk/stm-11.5.5-pda-arm64.zip?rlkey=yoc4nd9oanmbilm2ux1x6q8hn&st=5sz3irhc&dl=1",
   "update_size_title": "(streamix.zip ~ 165 MB)",
   "update_size_apk": 300, 
   "need_space": 780,
