@@ -1,12 +1,12 @@
 {
-  "version_id": 470,
-  "version_name": "11.4.5",
-  "date": "2026-08-20",
-  "urlZip": "https://www.dropbox.com/scl/fi/uvxyqu76we45rk9t37xmb/stm-11.4.5-pda-armv7.zip?rlkey=xm3c04we2n7ehh2s7yu71bkc5&st=1k6b6715&dl=1",
+  "version_id": 480,
+  "version_name": "11.5.5",
+  "date": "2026-10-24",
+  "urlZip": "https://www.dropbox.com/scl/fi/n9rqw893fcnyv7q3ybl9y/streamix-11.5.5-pda-armv7.zip?rlkey=u9g7ml9s4mrc5bq2e2cnkppv3&st=efgf0w1m&dl=1",
   "update_size_title": "(streamix.zip ~ 161 MB)",
   "update_size_apk": 250, 
   "need_space": 780,
-  "err_prev_ver": 470,
+  "err_prev_ver": 480,
   "err_prev_msg2": "В YouTube возможны сбои, подробности в Telegram.",
   "err_prev_msg": "Возможны сбои, обновите приложение.",
   "err_prev_msg1": "В бесплатной версии возмжны сбои при показе рекламы, подробности в Telegram."
