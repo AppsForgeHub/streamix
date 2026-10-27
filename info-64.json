@@ -1,12 +1,12 @@
 {
-  "version_id": 490,
+  "version_id": 480,
   "version_name": "11.6.5",
   "date": "2026-10-28",
   "urlZip": "https://www.dropbox.com/scl/fi/wxwh37751sm5q4qx5f8ay/stm-11.6.5-pda-arm64.zip?rlkey=mztnah8yva9w2npqw85ifiy7a&st=vf687ohh&dl=1",
   "update_size_title": "(streamix.zip ~ 165 MB)",
   "update_size_apk": 300, 
   "need_space": 780,
-  "err_prev_ver": 490,
+  "err_prev_ver": 480,
   "err_prev_msg2": "В YouTube возможны сбои, подробности в Telegram.",
   "err_prev_msg": "Возможны сбои, обновите приложение.",
   "err_prev_msg1": "В бесплатной версии возмжны сбои при показе рекламы, подробности в Telegram."
